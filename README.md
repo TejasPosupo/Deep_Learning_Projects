@@ -1,2 +1,2 @@
 # Deep_learning
-Deep learning Algorithms
+Deep learning projects
